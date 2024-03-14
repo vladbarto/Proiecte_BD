@@ -1,1 +1,0 @@
-Proprietar si proiectant: Ing. Bartolomei Vlad

@@ -14,7 +14,8 @@ managed with the help of [PhpMyAdmin](https://www.phpmyadmin.net/).
 	- City
 	- Broadcast
 	Implement a number of CRUD operations and also implement triggers.
-> More details can be found in [this document](./Colocviu partial/Subiect%20partial%20laborator%2005.pdf) (romanian only).
+ 	
+  	More details can be found in [this document](./Colocviu partial/Subiect%20partial%20laborator%2005.pdf) (romanian only).
 
 
 	Populate the database and implement a client-side interface to prove

@@ -15,13 +15,13 @@ managed with the help of [PhpMyAdmin](https://www.phpmyadmin.net/).
 	- Broadcast
 	Implement a number of CRUD operations and also implement triggers.
  	
-More details can be found in [this document](./Colocviu partial/Subiect%20partial%20laborator%2005.pdf) (romanian only).
+More details can be found in [this document](./Colocviu partial/Subiect_partial_laborator_05.pdf) (romanian only).
 
 
 	Populate the database and implement a client-side interface to prove
 	the working state of your database communication.
  
-More details can be found in [this other document](./Colocviu final/Tema%20pentru%20colocviul%20de%20laborator.pdf) (romanian only).
+More details can be found in [this other document](./Colocviu final/Tema_pentru_colocviul_de_laborator.pdf) (romanian only).
 
 ## Modules
 The project contains two folders (packages):  
